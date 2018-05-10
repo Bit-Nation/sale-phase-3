@@ -1,0 +1,23 @@
+{
+  "name": "sale-phase-3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bit-Nation/sale-phase-3.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Bit-Nation/sale-phase-3/issues"
+  },
+  "homepage": "https://github.com/Bit-Nation/sale-phase-3#readme",
+  "dependencies": {
+    "truffle": "^4.1.8"
+  }
+}
